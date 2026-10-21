@@ -1,0 +1,16 @@
+transaction_id,product,quantity,unit_price
+1001,Laptop,2,800.0
+1002,Mouse,3,20.0
+1003,Keyboard,1,50.0
+1002,Mouse,3,20.0
+1004,Monitor,-1,150.0
+1005,Desk,2,120.0
+1006,Chair,4,75.0
+1007,USB Cable,5,8.0
+1008,Webcam,2,45.0
+1009,Headphones,1,60.0
+1010,Laptop Stand,3,35.0
+1011,Mouse Pad,4,12.5
+1012,Monitor,2,150.0
+1013,Keyboard,0,50.0
+1014,Docking Station,1,-25.0
